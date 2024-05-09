@@ -4,7 +4,8 @@
 
 <center>
 
-![image](https://github.com/GaboLima/Responsive-portfolio/assets/88804562/ee766a20-ba9c-4464-8ccd-c3a1b66d7a1c)
+![image](https://github.com/GaboLima/Responsive-portfolio/assets/88804562/974044bd-e1fe-4c68-9fce-2ac9aaa6940d)
+
 
 <br>
 
